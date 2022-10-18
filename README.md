@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyasda
+- 👋 Hi, I’m Shreyas DA
 - 👀 I’m interested in Machine Learning and Neural Networks
 - 🌱 I’m currently learning Algorithms and Python
 - 💞️ I’m looking to collaborate on ML Projects
