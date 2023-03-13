@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyas DA
-- 👀 I’m interested in Machine Learning and Neural Networks
-- 🌱 I’m currently learning Algorithms and Python
-- 💞️ I’m looking to collaborate on ML Projects
+- 👀 I’m interested in Machine Learning (Beginner)
+- 🌱 I’m currently learning Algorithms and Django 
+- 💞️ I’m looking to collaborate on Backend, ML Projects
 - 📫 How to reach me ? Reach me through https://twitter.com/DaShreyas on Twitter, https://www.instagram.com/shreyas_da/ on Instagram or Email to shreyasda2002@gmail.com
 
 <!---
