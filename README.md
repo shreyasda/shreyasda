@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shreyas DA
-- 👀 I'm an Information Science graduate who's mainly into fundamentals of Computer Science.
-- 🌱 I’m learning various Machine Learning Algorithms and the Python Backend Framework Django.
-- 💞️ I’m looking to collaborate on ML, and Django Projects.
+- 👋 Hi, I’m Shreyas DA, an enthusiastic Information Science graduate passionate about the core fundamentals of Computer Science.
+- 👀 Currently exploring and honing my skills in Core Java.
+- 🚀 Eager to collaborate on Full Stack Java and Flask projects, with a strong focus on building robust and scalable solutions.
 - 📫 How to reach me? Reach me through  www.linkedin.com/in/shreyas-da on LinkedIn, or Email shreyasda2002@gmail.com
 
 <!---
